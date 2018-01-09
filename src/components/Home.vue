@@ -195,7 +195,7 @@ li {
 
 .footer{
   padding: 1em;
-  background-color: #da1212e1;
+  background-color: rgba(218, 18, 18, 0.882);
   color: white;
 }
 
