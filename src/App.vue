@@ -113,7 +113,7 @@ transition-delay: .5s;
 
 }
 .navbar-header{
-  background-color: #da1212e1;
+  background-color: rgba(218, 18, 18, 0.882);
   box-shadow: 0 5px 30px -5px rgba(0, 0, 0, .5);
 }
 
